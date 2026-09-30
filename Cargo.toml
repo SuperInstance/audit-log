@@ -1,9 +1,11 @@
 [package]
 name = "audit-log"
 version = "0.1.0"
-description = "A Rust library for Audit Log"
+description = "Audit Log — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/audit-log"
+repository = "https://github.com/SuperInstance/audit-log"
 edition = "2021"
+
+keywords = ["audit-log"]
 
 [dependencies]
